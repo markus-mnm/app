@@ -162,7 +162,7 @@
   },
   "esc_cancel": "Escape 将取消并关闭窗口。",
   "event_count": "暂无事件 | 一个事件 | {count} 个事件",
-  "existing": "已上传的文件",
+  "existing": "现有文件",
   "extension_error": "加载扩展 {ext} 时碰到了问题。",
   "extensions_missing": "找不到扩展",
   "extensions_missing_copy": "确保已经安装了系统扩展。",
