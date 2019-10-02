@@ -453,7 +453,7 @@ export default {
 
               const type = fieldInfo.type.toLowerCase();
 
-              if (type === "json") {
+              if (type === "json" || type === "translation") {
                 delta[key] = after[key];
               }
             });
